@@ -10,6 +10,7 @@ Using FCM, you can notify a client app that new email or other data is available
 2. Go to the [Firebase Console](https://console.firebase.google.com/) Create New Project and Name it
 
 ![preview](http://res.cloudinary.com/dkhrqes7p/image/upload/c_lpad,w_500/v1510200522/1_tzbx7r.png)
+
 3. To add Firebase to your APP click on <b>Add Firebase to your Android app</b>
 
 ![preview](http://res.cloudinary.com/dkhrqes7p/image/upload/v1510200709/5.png)
